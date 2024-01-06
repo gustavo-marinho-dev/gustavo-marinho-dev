@@ -1,16 +1,12 @@
-### Hi there 👋
+### Bem-vindo(a) à minha página! 👋
 
-<!--
-**gustavo-marinho-dev/gustavo-marinho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre Mim:
+- Amante da tecnologia, com 5 anos de experiência em desenvolvimento de software.
+- Formado em Ciências da Computação pela UNESP e pós-graduado em Engenharia de Software pela UNICAMP.
+- Competência principal na linguagem C# e plataforma .Net.
+- Atuação como desenvolvedor fullstack, tambem possúo conhecimentos em JavaScript, HTML, CSS (Angular) e T-SQL (SQL Server).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experiência Profissional:
+- Serviços prestados para empresas como Raízen, Ambev e Banco Itaú.
+- Projetos variados, incluindo desenvolvimento de novas features, sustentação e contato com diferentes arquiteturas.
+- Participação em projetos com abordagens cascata e ágeis, incluindo SCRUM e SQUAD.
